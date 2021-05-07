@@ -17,4 +17,5 @@ When the software runs it will:
 	- Create a new file called 'eatenEnvironments' to show the final environment state after manipulation by the agents.
 
 For further development, a property attribute could be implemented to protect the 'self' variables using 'fget' and 'fset' functions (code outlined in agentframework.py).
-Furthermore, a GUI could be created to allow users to input their own model parameters without editing the souce code.
+
+An attempt was made to create a GUI to allow users to input their own model parameters without editing the souce code. This was unsuccessful, but the code is in the other branch (assignment-1-updates).
